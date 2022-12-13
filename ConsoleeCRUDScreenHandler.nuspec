@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>PackConsoleeCRUDScreenHandler</id>
+    <version>1.0</version>
+    <title>Paquete ConsoleeCRUDScreenHandler</title>
+    <authors>Julio</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/02julio04/PaqueteConsoleeCRUDScreenHandler</projectUrl>
+    <description>Paquete Prueba</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>copyright</copyright>
+    <tags>C# .Net</tags>
+  </metadata>
+</package>

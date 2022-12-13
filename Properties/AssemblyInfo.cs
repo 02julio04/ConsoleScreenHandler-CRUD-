@@ -5,10 +5,10 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ConsoleeCRUDScreenHandler")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Paquete ConsoleeCRUDScreenHandler")]
+[assembly: AssemblyDescription("Paquete Prueba")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Julio")]
 [assembly: AssemblyProduct("ConsoleeCRUDScreenHandler")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
