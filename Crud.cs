@@ -14,7 +14,7 @@ namespace ConsoleeCRUDScreenHandler
 
         public void CrearRegistro()
         {
-            Console.WriteLine("Crear");
+            Console.WriteLine("Registro");
             Console.WriteLine("\n");
             Console.WriteLine("Digite su id: ");
             id = Console.ReadLine();
