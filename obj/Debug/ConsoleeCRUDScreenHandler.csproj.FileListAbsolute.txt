@@ -6,3 +6,10 @@ C:\Users\pjuli\source\repos\ConsoleeCRUDScreenHandler\ConsoleeCRUDScreenHandler\
 C:\Users\pjuli\source\repos\ConsoleeCRUDScreenHandler\ConsoleeCRUDScreenHandler\obj\Debug\ConsoleeCRUDScreenHandler.csproj.CoreCompileInputs.cache
 C:\Users\pjuli\source\repos\ConsoleeCRUDScreenHandler\ConsoleeCRUDScreenHandler\obj\Debug\ConsoleeCRUDScreenHandler.exe
 C:\Users\pjuli\source\repos\ConsoleeCRUDScreenHandler\ConsoleeCRUDScreenHandler\obj\Debug\ConsoleeCRUDScreenHandler.pdb
+C:\Users\pjuli\source\repos\PaqueteScreenHandler\ConsoleScreenHandler-CRUD-\bin\Debug\PackConsoleeCRUDScreenHandler.dll.config
+C:\Users\pjuli\source\repos\PaqueteScreenHandler\ConsoleScreenHandler-CRUD-\bin\Debug\PackConsoleeCRUDScreenHandler.dll
+C:\Users\pjuli\source\repos\PaqueteScreenHandler\ConsoleScreenHandler-CRUD-\bin\Debug\PackConsoleeCRUDScreenHandler.pdb
+C:\Users\pjuli\source\repos\PaqueteScreenHandler\ConsoleScreenHandler-CRUD-\obj\Debug\ConsoleeCRUDScreenHandler.csproj.AssemblyReference.cache
+C:\Users\pjuli\source\repos\PaqueteScreenHandler\ConsoleScreenHandler-CRUD-\obj\Debug\ConsoleeCRUDScreenHandler.csproj.CoreCompileInputs.cache
+C:\Users\pjuli\source\repos\PaqueteScreenHandler\ConsoleScreenHandler-CRUD-\obj\Debug\PackConsoleeCRUDScreenHandler.dll
+C:\Users\pjuli\source\repos\PaqueteScreenHandler\ConsoleScreenHandler-CRUD-\obj\Debug\PackConsoleeCRUDScreenHandler.pdb
