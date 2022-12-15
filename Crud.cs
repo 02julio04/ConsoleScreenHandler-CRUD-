@@ -134,7 +134,7 @@ namespace ConsoleeCRUDScreenHandler
         {
             if (lista_vacia()==true)
             {
-                Console.WriteLine("No se encuentra ningun dato en la lista");
+                Console.WriteLine("La lista esta vacia");
             }
             else
             {

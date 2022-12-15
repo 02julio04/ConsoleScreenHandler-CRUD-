@@ -19,7 +19,8 @@ namespace ConsoleeCRUDScreenHandler
         }
         private void cabecera()
         {
-            Console.WriteLine("-------------------Menu------------------");
+            Console.WriteLine("|-------------WELCOME Screen #1----------|");
+            Console.WriteLine("|-------------------Menu-----------------|");
             Console.WriteLine("|1 [Crear Registro]   | 3 [Eliminar]     |");
             Console.WriteLine("|2 [Listar Registro]  | 4 [Actualizar]   |");
             Console.WriteLine("|5 [Consultar]                           |");
@@ -38,30 +39,35 @@ namespace ConsoleeCRUDScreenHandler
                 {
                 case "1":
                     Console.Clear();
+                    Console.WriteLine("--WELCOME Screen Registrarse---");
                     CrearRegistro();
                     volver_menu();
                     Console.ReadKey();
                     break;
                 case "2":
                     Console.Clear();
+                    Console.WriteLine("--WELCOME Screen Lista---");
                     lista();
                     volver_menu();
                     Console.ReadKey();
                     break;
                 case "3":
                     Console.Clear();
+                    Console.WriteLine("--WELCOME Screen Eliminar---");
                     Eliminar();
                     volver_menu();
                     Console.ReadKey();
                     break;
                 case "4":
                     Console.Clear();
+                    Console.WriteLine("--WELCOME Screen Actualizar---");
                     actualizar();
                     volver_menu();
                     Console.ReadKey();
                     break;
                 case "5":
                     Console.Clear();
+                    Console.WriteLine("--WELCOME Screen Buscar---");
                     buscar();
                     volver_menu();
                     Console.ReadKey();
@@ -82,7 +88,8 @@ namespace ConsoleeCRUDScreenHandler
         private void volver_menu()
         {
             string op;
-            Console.WriteLine("Digite q para volver al menu");
+            Console.WriteLine("----------------------------");
+            Console.WriteLine("Digite (q) para volver al menu");
             op = Console.ReadLine();
             selecMenu(op);
         }
